@@ -4,8 +4,14 @@ import Phi from './components/Phi'
 
 const App = () => {
   return (
-    <Khoa></Khoa>,
-    <Phi></Phi>
+    <>
+    <div>
+      <Khoa></Khoa>
+    </div>
+    <div>
+      <Phi></Phi>
+    </div>
+    </>
   );
 };
 
