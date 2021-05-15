@@ -1,13 +1,11 @@
-import React from 'react'
+import React from "react";
 
- const Phi = () => {
-    return (
-        <div>
-            <p class="text-yellow-600 text-opacity-100 ...">Phi</p>
-        </div>
-    )
-}
+const Phi = () => {
+  return (
+    <div>
+      <p>Phi Done</p>
+    </div>
+  );
+};
 
 export default Phi;
-
-
