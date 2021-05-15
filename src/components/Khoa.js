@@ -4,7 +4,7 @@ import React from 'react'
     return (
         <div>
             <p class="text-red-500 text-opacity-100 ...">Khoa 123</p>
-            <button>Click </button>
+            <button>akjshd</button>
         </div>
     )
 }
