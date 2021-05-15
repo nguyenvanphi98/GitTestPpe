@@ -1,5 +1,6 @@
-import React from 'react'
+import React from "react";
 
+<<<<<<< HEAD
  const Khoa = () => {
     return (
         <div>
@@ -7,4 +8,14 @@ import React from 'react'
         </div>
     )
 }
+=======
+const Khoa = () => {
+  return (
+    <div>
+      <div>Khoa master Git</div>
+      <div>Phi test git</div>
+    </div>
+  );
+};
+>>>>>>> origin/master
 export default Khoa;
