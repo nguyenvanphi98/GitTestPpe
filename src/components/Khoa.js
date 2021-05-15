@@ -1,10 +1,11 @@
-import React from 'react'
+import React from "react";
 
- const Khoa = () => {
-    return (
-        <div>
-            <p class="text-red-500 text-opacity-100 ...">Khoa</p>
-        </div>
-    )
-}
+const Khoa = () => {
+  return (
+    <div>
+      <div>Khoa master Git</div>
+      <div>Phi test git</div>
+    </div>
+  );
+};
 export default Khoa;
