@@ -1,14 +1,19 @@
+import React from "react";
 
+const Khoa = () => {
+  return (
+    <div>
+      <div>Khoa master git</div>
+      <div>Khoa master git</div>
+    </div>
+  );
+};
 
-import React from 'react'
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
+// fasfsdfsdfsfsdfsfsfsfsfsfsfsfsfsf
 
- const Khoa = () => {
-    return (
-        <div>
-            <p class="text-red-500 text-opacity-100 ...">Khoa 123</p>
-            <button>akjshd</button>
-            <textarea>ljfsalfsahfsahihfsa;kh</textarea>
-        </div>
-    )
-}
 export default Khoa;
