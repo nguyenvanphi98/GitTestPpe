@@ -7,7 +7,8 @@ import React from 'react'
         <div>
             <p class="text-red-500 text-opacity-100 ...">Khoa 123</p>
             <button>akjshd</button>
-            <textarea>ljfsalfsahfsahihfsa;kh</textarea>
+            <textarea>pepe </textarea>
+            
         </div>
     )
 }
