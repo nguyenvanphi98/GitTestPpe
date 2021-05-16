@@ -14,6 +14,37 @@ const Khoa = () => {
         <div> Ok fine lên</div>
         <div> Ok fine lên</div>
       </div>
+      <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+      <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+      <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+      <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+      <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+      
     </div>
   );
 };
