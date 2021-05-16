@@ -1,3 +1,5 @@
+import React from "react";
+
 
 
 import React from 'react'
@@ -9,6 +11,12 @@ import React from 'react'
             <button>akjshd</button>
             <textarea>pepe </textarea>
             <p>Công ty PPE</p>
+            <div>
+      <div> Ok fine lên</div>
+      <div> Ok fine lên</div>
+      <div> Ok fine lên</div>
+      <div> Ok fine lên</div>
+    </div>
         </div>
     )
     }
