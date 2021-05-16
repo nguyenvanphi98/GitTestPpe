@@ -32,6 +32,25 @@ const Khoa = () => {
         <div> Ok fine lên</div>
         <div> Ok fine lên</div>
       </div>
+    <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+    <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+    <div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+        <div> Ok fine lên</div>
+      </div>
+    
      <p>Ok fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lên</p>
 
     </div>
