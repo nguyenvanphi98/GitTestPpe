@@ -3,6 +3,14 @@ import { Button, Checkbox, Form, Input } from "antd";
 import "antd/dist/antd.css";
 import React from "react";
 
+const layout = {
+  labelCol: { span: 8 },
+  wrapperCol: { span: 16 },
+};
+const tailLayout = {
+  wrapperCol: { offset: 8, span: 16 },
+};
+
 const Khoa = () => {
 
   const onFinish = (values) => {
