@@ -1,4 +1,8 @@
-import { HeartOutlined, MinusCircleOutlined, PlusOutlined } from "@ant-design/icons";
+import {
+  HeartOutlined,
+  MinusCircleOutlined,
+  PlusOutlined,
+} from "@ant-design/icons";
 import { Button, Checkbox, Form, Input } from "antd";
 import "antd/dist/antd.css";
 import React from "react";
@@ -92,6 +96,11 @@ const Khoa = () => {
         {...formItemLayoutWithOutLabel}
         onFinish={onFinish1}
       >
+        <Form.Item>
+          <Button type="primary" htmlType="submit">
+            Submit
+          </Button>
+        </Form.Item>
         <Form.List
           name="names"
           rules={[
