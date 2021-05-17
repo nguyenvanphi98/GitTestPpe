@@ -18,6 +18,7 @@ const Khoa = () => {
     <>
     <p>PPE</p>
       <p>BUi van khoa</p>
+      <p>BUi van khoa1</p>
     </>
   );
 };
