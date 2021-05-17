@@ -13,7 +13,7 @@ const Khoa = () => {
         <p>ahihi</p>
        <p> Khoa Van Bui </p>
       </div>
-       <p>Bui Van Khoa </p>
+       <p>PPE 23 lương thúc kỳ</p>
     </div>
   );
 };
