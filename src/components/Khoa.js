@@ -14,6 +14,11 @@ const Khoa = () => {
   };
   return (
     <div style={mystyle}>
+<<<<<<< Updated upstream
+=======
+      <p>PPE 123</p>
+      <p>PPE456</p>
+>>>>>>> Stashed changes
       <p>PPE 123</p>
       <p>PPE456</p>
       <p>PPE789</p>
