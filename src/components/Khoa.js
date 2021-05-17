@@ -14,11 +14,7 @@ const Khoa = () => {
         <div> Ok fine lên</div>
         <div> Ok fine lên</div>
       </div>
-       <p>Ok fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lên</p>
-        <p>Ok fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lên</p>
-        <p>Ok fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lên</p>
-     <p>Ok fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lênOk fine lên</p>
-
+       <p>Bui Van Khoa </p>
     </div>
   );
 };
