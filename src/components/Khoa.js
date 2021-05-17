@@ -10,6 +10,7 @@ const Khoa = () => {
         <p> Khoa Van Bui </p>
       </div>
       <p>Công ty PPE </p>
+       <p>PPE 23 lương thúc kỳ</p>
     </div>
   );
 };
