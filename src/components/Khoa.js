@@ -6,6 +6,7 @@ const Khoa = () => {
     <>
       <p>PPE</p>
       <p>PPE2</p>
+      <p>PPE1</p>
     </>
   );
 };
