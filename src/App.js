@@ -9,7 +9,7 @@ const App = () => {
       <Khoa></Khoa>
     </div>
     <div>
-      <Phi></Phi>
+      {/* <Phi></Phi> */}
     </div>
     </>
   );

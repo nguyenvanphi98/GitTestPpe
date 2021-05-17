@@ -1,17 +1,19 @@
 import React from "react";
+import { Timeline } from "antd";
+import { ClockCircleOutlined } from "@ant-design/icons";
+import { Progress } from 'antd';
+import 'antd/dist/antd.css';
 
 const Khoa = () => {
   return (
-    <div>
-      <p class="text-red-500 text-opacity-100 ...">Khoa 123</p>
-      <p>Công ty PPE</p>
-      <div>
-        <p>ahihi</p>
-        <p> Khoa Van Bui </p>
+    <>
+      <div style={{ width: 170 }}>
+        <Progress percent={30} size="large" />
+        <Progress percent={50} size="large" status="active" />
+        <Progress percent={70} size="large" status="exception" />
+        <Progress percent={100} size="large" />
       </div>
-      <p>Công ty PPE </p>
-       <p>PPE 23 lương thúc kỳ</p>
-    </div>
+    </>
   );
 };
 export default Khoa;
