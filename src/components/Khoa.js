@@ -14,7 +14,7 @@ const Khoa = () => {
   };
   return (
     <div style={mystyle}>
-      <p>PPE</p>
+      <p>PPE 123</p>
     </div>
   );
 };
