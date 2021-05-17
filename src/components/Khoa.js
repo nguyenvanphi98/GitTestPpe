@@ -27,7 +27,6 @@ const Khoa = () => {
   };
   return (
     <>
-    <HeartOutlined />
       <Form
         {...layout}
         name="basic"
@@ -73,7 +72,6 @@ const Khoa = () => {
           </Button>
         </Form.Item>
       </Form>
-      <HeartOutlined />
     </>
   );
 };
