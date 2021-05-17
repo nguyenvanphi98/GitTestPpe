@@ -29,7 +29,7 @@ const formItemLayoutWithOutLabel = {
 };
 const Khoa = () => {
   const onFinish = (values) => {
-    console.log("Success:", values);
+    console.log("Ahihi:", values);
   };
 
   const onFinishFailed = (errorInfo) => {
