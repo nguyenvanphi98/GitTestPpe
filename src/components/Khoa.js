@@ -73,6 +73,7 @@ const Khoa = () => {
           </Button>
         </Form.Item>
       </Form>
+      <HeartOutlined />
     </>
   );
 };
