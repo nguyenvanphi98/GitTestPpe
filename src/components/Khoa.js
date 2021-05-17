@@ -9,10 +9,7 @@ const Khoa = () => {
       <textarea>pepe </textarea>
       <p>Công ty PPE</p>
       <div>
-        <div> Ok fine lên</div>
-        <div> Ok fine lên</div>
-        <div> Ok fine lên</div>
-        <div> Ok fine lên</div>
+       <p> Khoa Van Bui </p>
       </div>
        <p>Bui Van Khoa </p>
     </div>
