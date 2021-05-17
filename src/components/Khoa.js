@@ -17,7 +17,7 @@ const Khoa = () => {
   return (
     <>
     <p>PPE</p>
-      <p>PPEEEEE</p>
+      <p>BUi van khoa</p>
     </>
   );
 };
